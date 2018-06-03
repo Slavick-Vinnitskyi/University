@@ -1,0 +1,7 @@
+C:\Users\Славик Винницкий\Documents\Visual Studio 2017\Projects\C_Sharp_Laba2\C_Sharp_Laba2\bin\Debug\C_Sharp_Laba2.exe.config
+C:\Users\Славик Винницкий\Documents\Visual Studio 2017\Projects\C_Sharp_Laba2\C_Sharp_Laba2\bin\Debug\C_Sharp_Laba2.exe
+C:\Users\Славик Винницкий\Documents\Visual Studio 2017\Projects\C_Sharp_Laba2\C_Sharp_Laba2\bin\Debug\C_Sharp_Laba2.pdb
+C:\Users\Славик Винницкий\Documents\Visual Studio 2017\Projects\C_Sharp_Laba2\C_Sharp_Laba2\obj\Debug\C_Sharp_Laba2.csprojResolveAssemblyReference.cache
+C:\Users\Славик Винницкий\Documents\Visual Studio 2017\Projects\C_Sharp_Laba2\C_Sharp_Laba2\obj\Debug\C_Sharp_Laba2.csproj.CoreCompileInputs.cache
+C:\Users\Славик Винницкий\Documents\Visual Studio 2017\Projects\C_Sharp_Laba2\C_Sharp_Laba2\obj\Debug\C_Sharp_Laba2.exe
+C:\Users\Славик Винницкий\Documents\Visual Studio 2017\Projects\C_Sharp_Laba2\C_Sharp_Laba2\obj\Debug\C_Sharp_Laba2.pdb
