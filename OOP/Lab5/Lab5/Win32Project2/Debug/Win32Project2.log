@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  Win32Project2.cpp
+  Tool.cpp
+  ShapeObjectsEditor.cpp
+  Shape.cpp
+  ShapeEditor.cpp
+  RectangleShape.cpp
+  RectangleEditor.cpp
+  PointEditor.cpp
+  PointShape.cpp
+  LineEditor.cpp
+  LineShape.cpp
+  EllipsEditor.cpp
+  EllipsShape.cpp
+  Editor.cpp
+  Создание кода...
+Tool.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__ImageList_Create@20 в функции "public: __thiscall ToolBarHandler::ToolBarHandler(struct HWND__ *)" (??0ToolBarHandler@@QAE@PAUHWND__@@@Z)
+Tool.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__ImageList_Add@12 в функции "public: __thiscall ToolBarHandler::ToolBarHandler(struct HWND__ *)" (??0ToolBarHandler@@QAE@PAUHWND__@@@Z)
+C:\Users\Славик Винницкий\Desktop\Учеба\ООП\2 курс\LabsOOP\Lab5\laba4\Debug\Win32Project2.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
