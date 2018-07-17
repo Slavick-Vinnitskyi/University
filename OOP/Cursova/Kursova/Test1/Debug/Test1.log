@@ -1,0 +1,48 @@
+﻿  stdafx.cpp
+  MyTable.cpp
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(67): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(86): warning C4101: xDelta: неиспользованная локальная переменная
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(119): warning C4101: yDelta: неиспользованная локальная переменная
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(158): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(204): error C2664: "int GetWindowTextW(HWND,LPWSTR,int)": невозможно преобразовать аргумент 2 из "char [150]" в "LPWSTR"
+  c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(204): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(208): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(202): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(206): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(259): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [5]" в "LPCWSTR"
+  c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(259): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(280): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(290): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(353): error C2440: =: невозможно преобразовать "char [100]" в "LPWSTR"
+  c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(353): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(356): error C2440: =: невозможно преобразовать "const char [12]" в "LPCWSTR"
+  c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(356): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\mytable.cpp(362): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  Test1.cpp
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\test1.cpp(112): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 3 из "const char [17]" в "LPCWSTR"
+  c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\test1.cpp(112): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+  Table.cpp
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\table.cpp(29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+  FileRead.cpp
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\fileread.cpp(16): error C2440: =: невозможно преобразовать "char [100]" в "LPWSTR"
+  c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\fileread.cpp(16): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\fileread.cpp(19): error C2440: =: невозможно преобразовать "const char [12]" в "LPCWSTR"
+  c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\fileread.cpp(19): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\fileread.cpp(30): error C2664: "char *strcpy(char *,const char *)": невозможно преобразовать аргумент 2 из "LPWSTR" в "const char *"
+  c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\fileread.cpp(30): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\fileread.cpp(35): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note:  см. объявление "strtok"
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\fileread.cpp(39): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note:  см. объявление "strtok"
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\fileread.cpp(72): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note:  см. объявление "strtok"
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\fileread.cpp(80): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\славик винницкий\desktop\учеба\ооп\курсач\cursova\kursova\test1\fileread.cpp(86): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note:  см. объявление "strtok"
+  Создание кода...
