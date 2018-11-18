@@ -1,0 +1,25 @@
+[GENERATED OBJECT FILE]
+b__lab1.o
+[PROJECT FILES]
+/home/slavick/Desktop/ada/lab1/PP-labs/lab01/lab1.gpr
+20181015173240
+[BOUND OBJECT FILES]
+/home/slavick/Desktop/ada/lab1/PP-labs/lab01/obj/data.o
+/home/slavick/Desktop/ada/lab1/PP-labs/lab01/obj/lab1.o
+[GENERATED SOURCE FILES]
+b__lab1.ads
+b__lab1.adb
+b__lab1.ali
+[RESULTING OPTIONS]
+-L/home/slavick/Desktop/ada/lab1/PP-labs/lab01/obj/
+-L/home/slavick/Desktop/ada/lab1/PP-labs/lab01/obj/
+-L/usr/lib/gcc/x86_64-linux-gnu/7/adalib/
+-shared
+-shared-libgcc
+-lgnarl-7
+-lgnat-7
+-lpthread
+-lrt
+[RUN PATH OPTION]
+/usr/lib/gcc/x86_64-linux-gnu/7/adalib/
+/usr/lib
