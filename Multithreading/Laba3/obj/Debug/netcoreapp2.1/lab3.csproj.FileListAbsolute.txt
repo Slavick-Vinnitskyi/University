@@ -1,0 +1,22 @@
+C:\Users\Славик Винницкий\Downloads\lab3\bin\Debug\netcoreapp2.1\lab3.deps.json
+C:\Users\Славик Винницкий\Downloads\lab3\bin\Debug\netcoreapp2.1\lab3.runtimeconfig.json
+C:\Users\Славик Винницкий\Downloads\lab3\bin\Debug\netcoreapp2.1\lab3.runtimeconfig.dev.json
+C:\Users\Славик Винницкий\Downloads\lab3\bin\Debug\netcoreapp2.1\lab3.dll
+C:\Users\Славик Винницкий\Downloads\lab3\bin\Debug\netcoreapp2.1\lab3.pdb
+C:\Users\Славик Винницкий\Downloads\lab3\obj\Debug\netcoreapp2.1\lab3.csprojAssemblyReference.cache
+C:\Users\Славик Винницкий\Downloads\lab3\obj\Debug\netcoreapp2.1\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Славик Винницкий\Downloads\lab3\obj\Debug\netcoreapp2.1\lab3.AssemblyInfoInputs.cache
+C:\Users\Славик Винницкий\Downloads\lab3\obj\Debug\netcoreapp2.1\lab3.AssemblyInfo.cs
+C:\Users\Славик Винницкий\Downloads\lab3\obj\Debug\netcoreapp2.1\lab3.dll
+C:\Users\Славик Винницкий\Downloads\lab3\obj\Debug\netcoreapp2.1\lab3.pdb
+D:\PASHA\lab3\bin\Debug\netcoreapp2.1\lab3.deps.json
+D:\PASHA\lab3\bin\Debug\netcoreapp2.1\lab3.runtimeconfig.json
+D:\PASHA\lab3\bin\Debug\netcoreapp2.1\lab3.runtimeconfig.dev.json
+D:\PASHA\lab3\bin\Debug\netcoreapp2.1\lab3.dll
+D:\PASHA\lab3\bin\Debug\netcoreapp2.1\lab3.pdb
+D:\PASHA\lab3\obj\Debug\netcoreapp2.1\lab3.csprojAssemblyReference.cache
+D:\PASHA\lab3\obj\Debug\netcoreapp2.1\lab3.csproj.CoreCompileInputs.cache
+D:\PASHA\lab3\obj\Debug\netcoreapp2.1\lab3.AssemblyInfoInputs.cache
+D:\PASHA\lab3\obj\Debug\netcoreapp2.1\lab3.AssemblyInfo.cs
+D:\PASHA\lab3\obj\Debug\netcoreapp2.1\lab3.dll
+D:\PASHA\lab3\obj\Debug\netcoreapp2.1\lab3.pdb
