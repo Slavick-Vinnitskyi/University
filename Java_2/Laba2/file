@@ -1,0 +1,5 @@
+variant 3
+Обобщение
+If2<-If1; If1<-If3; Cl1<-Cl2
+Агрегация
+I1<-Cl3; Cl1<-Cl2;Cl1<-Cl1
