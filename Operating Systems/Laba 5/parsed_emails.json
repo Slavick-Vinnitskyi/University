@@ -1,1 +1,14 @@
-[{"local part": "email", "domain": ["example", "com"]}, {"local part": "firstname.lastname", "domain": ["example", "com"]}, {"local part": "email", "domain": ["subdomain", "example", "com"]}, {"local part": "firstname+lastname", "domain": ["example", "com"]}, {"local part": "email\"", "domain": ["example", "com"]}, {"local part": "1234567890", "domain": ["example", "com"]}, {"local part": "email", "domain": ["example-one", "com"]}, {"local part": "_______", "domain": ["example", "com"]}, {"local part": "email", "domain": ["example", "name"]}, {"local part": "email", "domain": ["example", "museum"]}, {"local part": "email", "domain": ["example", "co", "jp"]}, {"local part": "firstname-lastname", "domain": ["example", "com"]}]
+[
+  {"local part": "email", "domain": ["example", "com"]}, 
+ {"local part": "firstname.lastname", "domain": ["example", "com"]}, 
+ {"local part": "email", "domain": ["subdomain", "example", "com"]}, 
+ {"local part": "firstname+lastname", "domain": ["example", "com"]}, 
+ {"local part": "email\"", "domain": ["example", "com"]}, 
+ {"local part": "1234567890", "domain": ["example", "com"]}, 
+ {"local part": "email", "domain": ["example-one", "com"]}, 
+ {"local part": "_______", "domain": ["example", "com"]}, 
+ {"local part": "email", "domain": ["example", "name"]}, 
+ {"local part": "email", "domain": ["example", "museum"]}, 
+ {"local part": "email", "domain": ["example", "co", "jp"]}, 
+ {"local part": "firstname-lastname", "domain": ["example", "com"]}
+]
